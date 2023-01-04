@@ -1,0 +1,54 @@
+########################################################
+
+- TCP_Handler()
+    + Convert char to int   ->  PAST
+    + Strlen()              ->  PAST
+
+- wifi_handler()            ->  PAST
+
+- json_cfg_wifi_create()
+    + WIFI_CWCMAPCFG_VALUE_STAAP    ->  PAST
+    + WIFI_CWCMAPCFG_VALUE_APAP     ->  PAST
+    + WIFI_CWCMAPCFG_VALUE_AP       ->  PAST
+
+- queue.c
+    + test buff     ->  PAST
+    + config buff   -> 
+
+########################################################
+
+######################### 23/12/22 #########################
+- wifi:         -> OK
+     WifiOpen;
+     WifiMode;  -> 
+     CurrentAp;
+     WifiNat;   -> OK
+
+     SsidWifi1;         -> OK
+
+     AuthTypeWifi1;     -> OK
+     EncryptModeWifi1;  -> OK
+     AuthPwdWifi1;      -> OK
+-----------------------------------------------------------------------------------
+     <{"Imei": "868808038822133","Index": 0,"WifiMode": "2","AuthTypeWifi1":"5", "EncryptModeWifi1":"4","AuthPwdWifi1":"zxcvbnm"}>
+-----------------------------------------------------------------------------------
+
+     ClientCountWifi1;
+     BroadCastWifi1;    -> OK
+     IsolationWifi1;    -> OK
+     MacAddressWifi1;
+
+     ChannelModeWifi1;   -> OK
+     ChannelWifi1;       -> OK
+
+-----------------------------------------------------------------------------------
+     <{"Imei": "868808038822133","Index": 0,"WifiMode": "2","ChannelModeWifi1":"4","ChannelWifi1":"0"}>
+-----------------------------------------------------------------------------------
+
+     DhcpHostIpWifi1;
+     DhcpStartIpWifi1;
+     DhcpEndIpWifi1];
+     DhcpTimeWifi1;
+
+
+########################################################

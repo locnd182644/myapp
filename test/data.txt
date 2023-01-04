@@ -1,0 +1,47 @@
+{
+  "Imei": "864284040218732",
+  "Index": 0,
+  "WifiOpen": 1,
+  "WifiMode": 2,
+  "CurrentAp": 2,
+  "WifiNat": 0,
+  "SsidWifi1": "SIM8X00AP_STA",
+  "AuthTypeWifi1": 4,
+  "EncryptModeWifi1": 3,
+  "AuthPwdWifi1": "1234567890",
+  "ClientCountWifi1": 0,
+  "BroadCastWifi1": 1,
+  "IsolationWifi1": 0,
+  "MacAddressWifi1": "",
+  "ChannelModeWifi1": 5,
+  "ChannelWifi1": 157,
+  "DhcpHostIpWifi1": "192.168.225.1",
+  "DhcpStartIpWifi1": "192.168.225.20",
+  "DhcpEndIpWifi1": "192.168.225.60",
+  "DhcpTimeWifi1": "12h",
+
+  "SsidWifi2": "SIM8X00AP_STA",
+  "AuthTypeWifi2": 4,
+  "EncryptModeWifi2": 3,
+  "AuthPwdWifi2": "1234567890",
+  "ClientCountWifi2": 0,
+  "BroadCastWifi2": 1,
+  "IsolationWifi2": 0,
+  "MacAddressWifi2": "",
+  "ChannelModeWifi2": 5,
+  "ChannelWifi2": 157,
+  "DhcpHostIpWifi2": "192.168.225.1",
+  "DhcpStartIpWifi2": "192.168.225.20",
+  "DhcpEndIpWifi2": "192.168.225.60",
+  "DhcpTimeWifi2": "12h",
+  "StaIp": "192.168.1.72",
+  "StaSsidExt": "PNCSP-RD-5G",
+  "StaSecurity": 0,
+  "StaProtocol": 0,
+  "StaPassword": "1234567890"
+}
+
+
+1{"Imei":"864284040218732","WifiOpen":1,"WifiMode":2,"CurrentAp":2,"WifiNat":0,"SsidWifi1":"SIM8X00AP_STA","AuthTypeWifi1":4,"EncryptModeWifi1":3,"AuthPwdWifi1":"1234567890","ClientCountWifi1":0,"BroadCastWifi1":1,"IsolationWifi1":0,"MacAddressWifi1":"","ChannelModeWifi1":5,"ChannelWifi1":157,"DhcpHostIpWifi1":"192.168.225.1","DhcpStartIpWifi1":"192.168.225.20","DhcpEndIpWifi1":"192.168.225.60","DhcpTimeWifi1":"12h","SsidWifi2":"SIM8X00AP_STA","AuthTypeWifi2":4,"EncryptModeWifi2":3,"AuthPwdWifi2":"1234567890","ClientCountWifi2":0,"BroadCastWifi2":1,"IsolationWifi2":0,"MacAddressWifi2":"","ChannelModeWifi2":5,"ChannelWifi2":157,"DhcpHostIpWifi2":"192.168.225.1","DhcpStartIpWifi2":"192.168.225.20","DhcpEndIpWifi2":"192.168.225.60","DhcpTimeWifi2":"12h","StaIp":"192.168.1.72","StaSsidExt":"PNCSP-RD-5G","StaSecurity":0,"StaProtocol":0,"StaPassword":"1234567890"}
+
+1{"Imei":"864284040218732","WifiOpen":1,"WifiMode":2,"CurrentAp":2,"WifiNat":0,"SsidWifi2":"SIM8X00AP_STA","StaPassword":"1234567890"}

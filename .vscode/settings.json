@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "app_serverinf.h": "c",
+        "ledcontrol.h": "c",
+        "wificontrol.h": "c",
+        "datacall.h": "c",
+        "main.h": "c",
+        "gpscontrol.h": "c",
+        "ethcontrol.h": "c"
+    }
+}
